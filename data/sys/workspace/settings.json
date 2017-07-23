@@ -1,10 +1,10 @@
 {
   "site": {
-    "name": "",
-    "tagline": "",
+    "name": "Oh My Word!",
+    "tagline": "The app for word nerds",
     "description": "",
-    "url": "",
+    "url": "https://ohmyword.xyz",
     "theme": "gin-whitepaper",
-    "gaTrackingId": ""
+    "gaTrackingId": "UA-73117355-1"
   }
 }
