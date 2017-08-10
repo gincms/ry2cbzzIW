@@ -1,0 +1,18 @@
+{
+  "title": "Oh My Word!",
+  "subtitle": "",
+  "slug": "index",
+  "section": "",
+  "url": "/oh-my-word/",
+  "body": "{{list type=page match=/inspiration/}}",
+  "featured-image": {
+    "src": ""
+  },
+  "summary": "",
+  "blog": "1",
+  "created": "2017-08-10T07:15:55.860Z",
+  "updated": "",
+  "published": "",
+  "contentType": "page",
+  "id": "SyNNdKYPb"
+}
