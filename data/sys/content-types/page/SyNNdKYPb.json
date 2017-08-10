@@ -3,7 +3,7 @@
   "subtitle": "",
   "slug": "index",
   "section": "",
-  "url": "/oh-my-word/",
+  "url": "/",
   "body": "{{list type=page match=/inspiration/}}",
   "featured-image": {
     "src": ""
@@ -11,7 +11,7 @@
   "summary": "",
   "blog": "1",
   "created": "2017-08-10T07:15:55.860Z",
-  "updated": "",
+  "updated": "2017-08-10T08:51:00.893Z",
   "published": "",
   "contentType": "page",
   "id": "SyNNdKYPb"
