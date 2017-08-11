@@ -4,7 +4,9 @@
     "tagline": "The app for word nerds",
     "description": "",
     "url": "https://ohmyword.xyz",
-    "theme": "gin-whitepaper",
-    "gaTrackingId": "UA-73117355-1"
+    "theme": "gin-ohmyword",
+    "gaTrackingId": "UA-73117355-1",
+    "head": "",
+    "foot": ""
   }
 }
