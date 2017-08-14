@@ -4,13 +4,13 @@
   "slug": "words",
   "section": "",
   "url": "/words/",
-  "body": "{{list type=page match=/words/}}",
+  "body": "{{list type=page match=/words/ max=20}}",
   "featured-image": {
     "src": ""
   },
   "summary": "",
   "created": "2017-08-14T14:25:05.632Z",
-  "updated": "2017-08-14T14:25:09.529Z",
+  "updated": "2017-08-14T14:25:46.652Z",
   "published": "2017-08-14T14:25:09.529Z",
   "contentType": "page",
   "id": "ry5aME1d-"
