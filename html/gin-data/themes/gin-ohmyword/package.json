@@ -1,0 +1,19 @@
+{
+  "name": "gin-whitepaper",
+  "version": "1.0.0",
+  "description": "The default theme for Gin CMS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gincms/gin-whitepaper.git"
+  },
+  "author": "Latn Black",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/gincms/gin-whitepaper/issues"
+  },
+  "homepage": "https://github.com/gincms/gin-whitepaper#readme"
+}

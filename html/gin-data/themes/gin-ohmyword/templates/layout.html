@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head data-gincb="{{gin.cacheBuster}}">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="{{gin.site.description}}">
+  <title>{% block title %}{{gin.site.name}}{% endblock %}</title>
+  <link rel="icon" type="image/png" href="{{asset('/img/favicon.ico')}}">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Material+Icons|Open+Sans+Condensed:300|Quicksand" media="screen" charset="utf-8">
+  <link rel="stylesheet" href="{{asset('css/main.css')}}">
+  {{ head() | safe}}
+</head>
+<body>
+<header class="hero is-primary">
+    <nav class="nav">
+      <div class="nav-center">
+        <a href="/">
+          <img class="omw-quart" src="{{asset('img/quart-400x376.png')}}" alt="For the word-lovers.">
+        </a>
+      </div>
+      {{ nav("primary") | safe}}
+    </nav>
+</header>
+<section class="section">
+  <div class="container">
+    <section id="primary-content" class="content">
+      <div class="columns is-desktop is-centered">
+        <div class="column is-7">
+          {% block content %} Nothing to see here {% endblock %}
+        </div>
+      </div>
+    </section>
+  </div>
+</section>
+<footer class="footer has-text-centered">
+  <div class="container">
+    {% include "partials/footer.html" %}
+  </div>
+</footer>
+</body>
+</html>
