@@ -1,0 +1,17 @@
+{
+  "title": "Words",
+  "subtitle": "",
+  "slug": "words",
+  "section": "",
+  "url": "/words/",
+  "body": "{{list type=page match=/words/}}",
+  "featured-image": {
+    "src": ""
+  },
+  "summary": "",
+  "created": "2017-08-14T14:25:05.632Z",
+  "updated": "",
+  "published": "",
+  "contentType": "page",
+  "id": "ry5aME1d-"
+}
