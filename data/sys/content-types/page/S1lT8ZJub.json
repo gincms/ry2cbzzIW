@@ -1,0 +1,18 @@
+{
+  "title": "Words",
+  "subtitle": "",
+  "slug": "words",
+  "section": "",
+  "url": "/words/",
+  "body": "Posts...\r\n\r\n{{list type=page match=/words/ paginate=true}}",
+  "featured-image": {
+    "src": ""
+  },
+  "summary": "",
+  "blog": "1",
+  "created": "2017-08-14T11:17:11.873Z",
+  "updated": "",
+  "published": "",
+  "contentType": "page",
+  "id": "S1lT8ZJub"
+}
