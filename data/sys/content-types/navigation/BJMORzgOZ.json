@@ -2,9 +2,9 @@
   "label": "Footer",
   "name": "footer",
   "title": "",
-  "structure": "* <a href=\"https://twitter.com/ohMyWordxyz\" target=\"_blank\" title=\"Follow us on Twitter\"><i class=\"omwicon-twitter\"></i></a>\r\n* <a href=\"https://www.facebook.com/ohMyWordxyz\" target=\"_blank\" title=\"Folow us on Facebook\"><i class=\"omwicon-facebook\"></i></a>\r\n* <a href=\"https://twitter.com/ohMyWordxyz\" target=\"_blank\" title=\"Send us your words\"><i class=\"omwicon-email\"><i></a>\r\n* Oh My Word! © 2016",
+  "structure": "* <a href=\"https://twitter.com/ohMyWordxyz\" target=\"_blank\" title=\"Follow us on Twitter\"><i class=\"omwicon-twitter\"></i></a>\r\n* <a href=\"https://www.facebook.com/ohMyWordxyz\" target=\"_blank\" title=\"Folow us on Facebook\"><i class=\"omwicon-facebook\"></i></a>\r\n* <a href=\"https://twitter.com/ohMyWordxyz\" target=\"_blank\" title=\"Send us your words\"><i class=\"omwicon-email\"><i></a>\r\n* |\r\n* [About](/about/ \"About Oh My Word!\")\r\n* [Contact](/contact/ \"Contact\")\r\n* [Privacy](/privacy/ \"Privacy\")\r\n* |\r\n* Oh My Word! © 2016",
   "created": "2017-08-15T07:10:33.603Z",
-  "updated": "",
+  "updated": "2017-08-15T07:17:51.278Z",
   "contentType": "navigation",
   "id": "BJMORzgOZ"
 }
