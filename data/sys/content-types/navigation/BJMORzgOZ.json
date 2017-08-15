@@ -1,0 +1,10 @@
+{
+  "label": "Footer",
+  "name": "footer",
+  "title": "",
+  "structure": "* <a href=\"https://twitter.com/ohMyWordxyz\" target=\"_blank\" title=\"Follow us on Twitter\"><i class=\"omwicon-twitter\"></i></a>\r\n* <a href=\"https://www.facebook.com/ohMyWordxyz\" target=\"_blank\" title=\"Folow us on Facebook\"><i class=\"omwicon-facebook\"></i></a>\r\n* <a href=\"https://twitter.com/ohMyWordxyz\" target=\"_blank\" title=\"Send us your words\"><i class=\"omwicon-email\"><i></a>\r\n* Oh My Word! © 2016",
+  "created": "2017-08-15T07:10:33.603Z",
+  "updated": "",
+  "contentType": "navigation",
+  "id": "BJMORzgOZ"
+}
