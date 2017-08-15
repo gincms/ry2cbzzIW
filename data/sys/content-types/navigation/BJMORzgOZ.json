@@ -2,9 +2,9 @@
   "label": "Footer",
   "name": "footer",
   "title": "",
-  "structure": "* <a href=\"https://twitter.com/ohMyWordxyz\" target=\"_blank\" title=\"Follow us on Twitter\"><i class=\"omwicon-twitter\"></i></a>\r\n* <a href=\"https://www.facebook.com/ohMyWordxyz\" target=\"_blank\" title=\"Folow us on Facebook\"><i class=\"omwicon-facebook\"></i></a>\r\n* <a href=\"https://twitter.com/ohMyWordxyz\" target=\"_blank\" title=\"Send us your words\"><i class=\"omwicon-email\"><i></a>\r\n* |\r\n*   [About](/about/ \"About Oh My Word!\")  \r\n* |\r\n*   [Contact](/contact/ \"Contact\")  \r\n* |\r\n*   [Privacy](/privacy/ \"Privacy\")  \r\n* |\r\n* Oh My Word! © 2016",
+  "structure": "* <a href=\"https://twitter.com/ohMyWordxyz\" target=\"_blank\" title=\"Follow us on Twitter\"><i class=\"omwicon-twitter\"></i></a>\r\n* <a href=\"https://www.facebook.com/ohMyWordxyz\" target=\"_blank\" title=\"Folow us on Facebook\"><i class=\"omwicon-facebook\"></i></a>\r\n* <a href=\"https://twitter.com/ohMyWordxyz\" target=\"_blank\" title=\"Send us your words\"><i class=\"omwicon-email\"><i></a>\r\n* |&nbsp;\r\n* [About](/about/ \"About Oh My Word!\")\r\n* &nbsp;|&nbsp;\r\n* [Contact](/contact/ \"Contact\")\r\n* &nbsp;|&nbsp;\r\n* [Privacy](/privacy/ \"Privacy\")\r\n* &nbsp;|\r\n* Oh My Word! © 2016",
   "created": "2017-08-15T07:10:33.603Z",
-  "updated": "2017-08-15T07:23:08.317Z",
+  "updated": "2017-08-15T07:24:05.546Z",
   "contentType": "navigation",
   "id": "BJMORzgOZ"
 }
