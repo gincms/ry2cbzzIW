@@ -2,9 +2,9 @@
   "label": "Primary",
   "name": "primary",
   "title": "",
-  "structure": "* [Home](/)\r\n* [Blog](/words/)\r\n* [About](/about/)\r\n* [Contact](/contact/)",
+  "structure": "* [Home](/)\r\n* [Words](/words/)\r\n* [About](/about/)\r\n* [Contact](/contact/)",
   "created": "2017-08-11T07:07:40.558Z",
-  "updated": "2017-08-14T11:39:57.445Z",
+  "updated": "2017-08-20T14:35:18.791Z",
   "contentType": "navigation",
   "id": "ryS6PA5P-"
 }
