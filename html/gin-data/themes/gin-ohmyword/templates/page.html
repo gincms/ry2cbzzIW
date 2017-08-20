@@ -7,10 +7,13 @@
 {% endblock %}
 
 {% block content %}
-    <article>
+    {% set isList = content.list === '1' and content.contentType === "page" %}
+    <article class="omw-{{'content-list' if isList else 'single'}}">
+      {% if not isList %}
       <h1 class="title">{{content.title}}</h1>
       {% if content.subtitle %}
       <h2 class="subtitle">{{content.subtitle}}</h2>
+      {% endif %}
       {% endif %}
 
       <section class="content-body">

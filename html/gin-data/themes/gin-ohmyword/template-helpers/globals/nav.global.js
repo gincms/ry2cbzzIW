@@ -29,6 +29,18 @@ module.exports = {
      */
 
     let renderer = new marked.Renderer();
+    
+    renderer.link = (href, title, text) => {
+      title = title || text;
+      let current = href === this.ctx.content.url
+        ? " nav__link--is-current"
+        : "";
+      return `
+        <a href="${href}" title="${title}" class="nav__link${current}">
+          ${text}
+        </a>`;
+    } 
+
     renderer.listitem = (str) => {
       return `<li class="nav-item">${str}</li>`; 
     };

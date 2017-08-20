@@ -12,13 +12,16 @@
 </head>
 <body>
 <header class="hero is-primary">
-    <nav class="nav">
-      <div class="nav-center">
-        <a href="/">
+    <nav class="level is-mobile omw-mini-nav">
+      <div class="level-left">
+        <a href="/" class="level-item">
           <img class="omw-quart" src="{{asset('img/quart-400x376.png')}}" alt="For the word-lovers.">
+          <span class="is-hidden-mobile omw-brand">Oh My Word!</span>
         </a>
       </div>
-      {{ nav("primary") | safe}}
+      <div class="level-right">
+        {{ nav("primary") | safe}}
+      </div>
     </nav>
 </header>
 <section class="section">
