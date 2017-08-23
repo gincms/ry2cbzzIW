@@ -1,87 +1,108 @@
 {
-  "ry7d1My_b": {
-    "type": "page",
-    "url": "/words/quotes-about-writing-words/"
-  },
-  "ryXaZfku-": {
-    "type": "page",
-    "url": "/words/reasons-to-download-oh-my-word/"
-  },
-  "By8g7GkOZ": {
-    "type": "page",
-    "url": "/words/best-new-words-oxford-english-dictionary-2015/"
-  },
-  "HJQK7GyOb": {
-    "type": "page",
-    "url": "/words/best-apps-for-writers/"
-  },
-  "BkPmNG1O-": {
-    "type": "page",
-    "url": "/words/the-cutest-words-in-the-english-vocabulary/"
-  },
   "SyNNdKYPb": {
-    "type": "page",
+    "id": "SyNNdKYPb",
+    "title": "Oh My Word!",
     "url": "/"
   },
-  "r1w5AfGL-": {
-    "type": "page",
-    "url": "/privacy/"
-  },
-  "B1z_9GMUZ": {
-    "type": "page",
-    "url": "/about/"
-  },
-  "Hk6XnMGIb": {
-    "type": "page",
-    "url": "/contact/"
-  },
-  "SyY4aG1_b": {
-    "type": "page",
-    "url": "/words/11-onomatopoeias-youll-love-if-youre-a-logophile/"
-  },
   "ry5aME1d-": {
-    "type": "page",
+    "id": "ry5aME1d-",
+    "title": "Words",
     "url": "/words/",
     "list": "1"
   },
-  "r1kTW7z8W": {
-    "type": "page",
-    "url": "/words/great-books-for-logophiles/"
+  "Hk6XnMGIb": {
+    "id": "Hk6XnMGIb",
+    "title": "Contact",
+    "url": "/contact/"
   },
-  "Bkb9EN1OW": {
-    "type": "page",
-    "url": "/words/sussex-language/"
+  "B1z_9GMUZ": {
+    "id": "B1z_9GMUZ",
+    "title": "About Oh My Word!",
+    "url": "/about/"
   },
-  "B1zgVmxOb": {
-    "type": "page",
-    "url": "/words/foreign-words-we-should-use-in-english/"
-  },
-  "ryC9lrl_-": {
-    "type": "page",
-    "url": "/words/words-to-use-instead-of-beautiful/"
+  "r1w5AfGL-": {
+    "id": "r1w5AfGL-",
+    "title": "Privacy",
+    "url": "/privacy/"
   },
   "S1sc6reOZ": {
-    "type": "page",
+    "id": "S1sc6reOZ",
+    "title": "11 lovely lost words from the English language",
     "url": "/words/lost-words-from-the-english-language/"
   },
-  "SyAYTuZ_-": {
-    "type": "page",
-    "url": "/words/7-things-weve-learned-from-interesting-etymology/"
+  "ryC9lrl_-": {
+    "id": "ryC9lrl_-",
+    "title": "18 words to use instead of beautiful ",
+    "url": "/words/words-to-use-instead-of-beautiful/"
   },
-  "ryW3HtWdW": {
-    "type": "page",
-    "url": "/words/7-things-you-didnt-know-about-shakespeare/"
+  "B1zgVmxOb": {
+    "id": "B1zgVmxOb",
+    "title": "Great foreign words we should all adopt",
+    "url": "/words/foreign-words-we-should-use-in-english/"
   },
-  "rydgvYbuZ": {
-    "type": "page",
-    "url": "/words/philes-and-phobias/"
+  "Bkb9EN1OW": {
+    "id": "Bkb9EN1OW",
+    "title": "Wine words: discovering the languages of Sussex, England",
+    "url": "/words/sussex-language/"
+  },
+  "r1kTW7z8W": {
+    "id": "r1kTW7z8W",
+    "title": "8 great books for logophiles",
+    "url": "/words/great-books-for-logophiles/"
   },
   "S1QTvY-uW": {
-    "type": "page",
+    "id": "S1QTvY-uW",
+    "title": "Idioms about love from around the world",
     "url": "/words/idioms-about-love-from-around-the-world/"
   },
+  "SyY4aG1_b": {
+    "id": "SyY4aG1_b",
+    "title": "11 onomatopoeias you'll love if you're a logophile",
+    "url": "/words/11-onomatopoeias-youll-love-if-youre-a-logophile/"
+  },
   "H1uNOK-uW": {
-    "type": "page",
+    "id": "H1uNOK-uW",
+    "title": "From Bopmuggered to Zozimus: this might just be the most ridiculous dictionary out there",
     "url": "/words/roald-dahl-dictionary/"
+  },
+  "rydgvYbuZ": {
+    "id": "rydgvYbuZ",
+    "title": "Philes and phobias",
+    "url": "/words/philes-and-phobias/"
+  },
+  "ryW3HtWdW": {
+    "id": "ryW3HtWdW",
+    "title": "7 things you didn't know about Shakespeare ",
+    "url": "/words/7-things-you-didnt-know-about-shakespeare/"
+  },
+  "SyAYTuZ_-": {
+    "id": "SyAYTuZ_-",
+    "title": "Muscles, mice and all things nice",
+    "url": "/words/7-things-weve-learned-from-interesting-etymology/"
+  },
+  "BkPmNG1O-": {
+    "id": "BkPmNG1O-",
+    "title": "The cutest words in the English language",
+    "url": "/words/the-cutest-words-in-the-english-vocabulary/"
+  },
+  "HJQK7GyOb": {
+    "id": "HJQK7GyOb",
+    "title": "8 of the best apps for writers",
+    "url": "/words/best-apps-for-writers/"
+  },
+  "By8g7GkOZ": {
+    "id": "By8g7GkOZ",
+    "title": "The best new words added to the Oxford English Dictionary in 2015",
+    "url": "/words/best-new-words-oxford-english-dictionary-2015/"
+  },
+  "ryXaZfku-": {
+    "id": "ryXaZfku-",
+    "title": "7 reasons you need to download Oh My Word!",
+    "url": "/words/reasons-to-download-oh-my-word/"
+  },
+  "ry7d1My_b": {
+    "id": "ry7d1My_b",
+    "title": "18 beautiful quotes about writing words ",
+    "url": "/words/quotes-about-writing-words/"
   }
 }
