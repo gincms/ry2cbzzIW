@@ -4,6 +4,7 @@
     "tagline": "The app for word nerds",
     "description": "",
     "url": "https://ohmyword.xyz",
+    "defaultSection": "words",
     "theme": "gin-ohmyword",
     "gaTrackingId": "UA-73117355-1",
     "head": "",
