@@ -5,6 +5,7 @@
     "description": "",
     "url": "https://ohmyword.xyz",
     "defaultSection": "words",
+    "defaultBlog": "1",
     "theme": "gin-ohmyword",
     "gaTrackingId": "UA-73117355-1",
     "head": "",
