@@ -1,3 +1,0 @@
-[submodule "html/gin-data/themes/gin-tonic"]
-	path = html/gin-data/themes/gin-tonic
-	url = https://github.com/gincms/gin-tonic.git
