@@ -4,13 +4,13 @@
   "slug": "login",
   "section": "",
   "url": "/login/",
-  "body": "Log in to Oh My Word!",
+  "body": "<p>If you'd like to be able to use Oh My Word! on desktop and mobile, please login:</p>\r\n<div class=\"has-text-centered\">\r\n\t<a class=\"btn-floating btn-large waves-effect waves-light omw-login\" data-login-method=\"twitter\">\r\n       <i class=\"omwicon-twitter omw-white\"></i>\r\n  </a>\r\n\t<a class=\"btn-floating btn-large waves-effect waves-light omw-login\" data-login-method=\"google\">\r\n\t    <i class=\"omwicon-google omw-white\"></i>\r\n  </a>\r\n\t<a class=\"btn-floating btn-large waves-effect waves-light omw-login\" data-login-method=\"facebook\">\r\n\t    <i class=\"omwicon-facebook omw-white\"></i>\r\n\t</a>\r\n</div>",
   "featured-image": {
     "src": ""
   },
   "summary": "",
   "created": "2017-09-01T09:33:06.980Z",
-  "updated": "",
+  "updated": "2017-09-01T09:42:58.633Z",
   "published": "",
   "contentType": "page",
   "id": "rJsUKiIKZ"
