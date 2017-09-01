@@ -4,13 +4,13 @@
   "slug": "login",
   "section": "",
   "url": "/login/",
-  "body": "<p>If you'd like to be able to use Oh My Word! on desktop and mobile, please login:</p>\r\n<div class=\"has-text-centered\">\r\n\t<a class=\"btn-floating btn-large waves-effect waves-light omw-login\" data-login-method=\"twitter\">\r\n       <i class=\"omwicon-twitter omw-white\"></i>\r\n  </a>\r\n\t<a class=\"btn-floating btn-large waves-effect waves-light omw-login\" data-login-method=\"google\">\r\n\t    <i class=\"omwicon-google omw-white\"></i>\r\n  </a>\r\n\t<a class=\"btn-floating btn-large waves-effect waves-light omw-login\" data-login-method=\"facebook\">\r\n\t    <i class=\"omwicon-facebook omw-white\"></i>\r\n\t</a>\r\n</div>",
+  "body": "<p>If you'd like to be able to use Oh My Word! on desktop and mobile, please login:</p>\r\n<div class=\"has-text-centered\">\r\n  <a class=\"button\" data-login-method=\"twitter\">\r\n    <span class=\"icon\">\r\n    \t<i class=\"fa fa-twitter\"></i>\r\n    </span>\r\n  </a>\r\n  <a class=\"button\" data-login-method=\"google\">\r\n    <span class=\"icon\">\r\n    \t<i class=\"fa fa-google\"></i>\r\n    </span>\r\n  </a>\r\n  <a class=\"button\" data-login-method=\"facebook\">\r\n    <span class=\"icon\">\r\n    \t<i class=\"fa fa-facebook\"></i>\r\n    </span>\r\n  </a>\r\n</div>",
   "featured-image": {
     "src": ""
   },
   "summary": "",
   "created": "2017-09-01T09:33:06.980Z",
-  "updated": "2017-09-01T09:43:17.357Z",
+  "updated": "2017-09-01T09:46:30.153Z",
   "published": "",
   "contentType": "page",
   "id": "rJsUKiIKZ"
