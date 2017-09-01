@@ -1,8 +1,8 @@
 {
   "name": "gin-ohmyword",
-  "title": "Oh My Word!",
+  "title": "Gin OhMyWord",
   "description": "The Oh My Word! Gin theme.",
   "image": "screenshot.png",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "repository": "git@bitbucket.org:latnblack/gin-ohmyword.git"
 }

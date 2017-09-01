@@ -4,5 +4,8 @@
     {{ nav("footer") | safe }} 
   </div>
 </footer>
+{% if content.url === "/login/" %}
+<script src="{{asset('js/main.js')}}"></script>
+{% endif %}
 {{ foot() | safe }}
 
