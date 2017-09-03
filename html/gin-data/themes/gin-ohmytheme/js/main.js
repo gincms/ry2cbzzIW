@@ -300,9 +300,9 @@ window.onload = function() {
       loginBtn.addEventListener('click', function(e) {
         console.log('clicked!', e);
         chrome.runtime.sendMessage(rti, {action: 'getFBURL'}, function(url) {
-            console.log("FBURL:", url);
+            //console.log("FBURL:", url);
             var ref = new Firebase(url),
-                loginMethod = e.tareget.getAttribute('data-login-method');
+                loginMethod = e.target.getAttribute('data-login-method');
             console.log('Logging in with: %s', loginMethod);
 
             ref.authWithOAuthPopup(loginMethod, function(error, authData) {
