@@ -302,7 +302,7 @@ window.onload = function() {
         chrome.runtime.sendMessage(rti, {action: 'getFBURL'}, function(url) {
             //console.log("FBURL:", url);
             var ref = new Firebase(url),
-                loginMethod = e.target.getAttribute('data-login-method');
+                loginMethod = loginBtn.getAttribute('data-login-method');
             console.log('Logging in with: %s', loginMethod);
 
             ref.authWithOAuthPopup(loginMethod, function(error, authData) {
