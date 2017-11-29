@@ -1,114 +1,135 @@
 {
   "SyNNdKYPb": {
     "id": "SyNNdKYPb",
+    "type": "page",
     "title": "Oh My Word!",
     "url": "/"
   },
   "ry5aME1d-": {
     "id": "ry5aME1d-",
+    "type": "page",
     "title": "Words",
     "url": "/words/",
     "list": "1"
-  },
-  "Hk6XnMGIb": {
-    "id": "Hk6XnMGIb",
-    "title": "Contact",
-    "url": "/contact/"
-  },
-  "B1z_9GMUZ": {
-    "id": "B1z_9GMUZ",
-    "title": "About Oh My Word!",
-    "url": "/about/"
-  },
-  "r1w5AfGL-": {
-    "id": "r1w5AfGL-",
-    "title": "Privacy",
-    "url": "/privacy/"
-  },
-  "S1sc6reOZ": {
-    "id": "S1sc6reOZ",
-    "title": "11 lovely lost words from the English language",
-    "url": "/words/lost-words-from-the-english-language/"
-  },
-  "ryC9lrl_-": {
-    "id": "ryC9lrl_-",
-    "title": "18 words to use instead of beautiful ",
-    "url": "/words/words-to-use-instead-of-beautiful/"
-  },
-  "B1zgVmxOb": {
-    "id": "B1zgVmxOb",
-    "title": "Great foreign words we should all adopt",
-    "url": "/words/foreign-words-we-should-use-in-english/"
-  },
-  "Bkb9EN1OW": {
-    "id": "Bkb9EN1OW",
-    "title": "Wine words: discovering the languages of Sussex, England",
-    "url": "/words/sussex-language/"
-  },
-  "r1kTW7z8W": {
-    "id": "r1kTW7z8W",
-    "title": "8 great books for logophiles",
-    "url": "/words/great-books-for-logophiles/"
-  },
-  "S1QTvY-uW": {
-    "id": "S1QTvY-uW",
-    "title": "Idioms about love from around the world",
-    "url": "/words/idioms-about-love-from-around-the-world/"
-  },
-  "SyY4aG1_b": {
-    "id": "SyY4aG1_b",
-    "title": "11 onomatopoeias you'll love if you're a logophile",
-    "url": "/words/11-onomatopoeias-youll-love-if-youre-a-logophile/"
-  },
-  "H1uNOK-uW": {
-    "id": "H1uNOK-uW",
-    "title": "From Bopmuggered to Zozimus: this might just be the most ridiculous dictionary out there",
-    "url": "/words/roald-dahl-dictionary/"
-  },
-  "rydgvYbuZ": {
-    "id": "rydgvYbuZ",
-    "title": "Philes and phobias",
-    "url": "/words/philes-and-phobias/"
-  },
-  "ryW3HtWdW": {
-    "id": "ryW3HtWdW",
-    "title": "7 things you didn't know about Shakespeare ",
-    "url": "/words/7-things-you-didnt-know-about-shakespeare/"
-  },
-  "SyAYTuZ_-": {
-    "id": "SyAYTuZ_-",
-    "title": "Muscles, mice and all things nice",
-    "url": "/words/7-things-weve-learned-from-interesting-etymology/"
-  },
-  "BkPmNG1O-": {
-    "id": "BkPmNG1O-",
-    "title": "The cutest words in the English language",
-    "url": "/words/the-cutest-words-in-the-english-vocabulary/"
-  },
-  "HJQK7GyOb": {
-    "id": "HJQK7GyOb",
-    "title": "8 of the best apps for writers",
-    "url": "/words/best-apps-for-writers/"
-  },
-  "By8g7GkOZ": {
-    "id": "By8g7GkOZ",
-    "title": "The best new words added to the Oxford English Dictionary in 2015",
-    "url": "/words/best-new-words-oxford-english-dictionary-2015/"
-  },
-  "ryXaZfku-": {
-    "id": "ryXaZfku-",
-    "title": "7 reasons you need to download Oh My Word!",
-    "url": "/words/reasons-to-download-oh-my-word/"
-  },
-  "ry7d1My_b": {
-    "id": "ry7d1My_b",
-    "title": "18 beautiful quotes about writing words ",
-    "url": "/words/quotes-about-writing-words/"
   },
   "rJsUKiIKZ": {
     "id": "rJsUKiIKZ",
     "type": "page",
     "title": "Log in to Oh My Word!",
     "url": "/login/"
+  },
+  "r1w5AfGL-": {
+    "id": "r1w5AfGL-",
+    "type": "page",
+    "title": "Privacy",
+    "url": "/privacy/"
+  },
+  "B1z_9GMUZ": {
+    "id": "B1z_9GMUZ",
+    "type": "page",
+    "title": "About Oh My Word!",
+    "url": "/about/"
+  },
+  "Hk6XnMGIb": {
+    "id": "Hk6XnMGIb",
+    "type": "page",
+    "title": "Contact",
+    "url": "/contact/"
+  },
+  "ryW3HtWdW": {
+    "id": "ryW3HtWdW",
+    "type": "page",
+    "title": "7 things you didn't know about Shakespeare ",
+    "url": "/words/7-things-you-didnt-know-about-shakespeare/"
+  },
+  "S1sc6reOZ": {
+    "id": "S1sc6reOZ",
+    "type": "page",
+    "title": "11 lovely lost words from the English language",
+    "url": "/words/lost-words-from-the-english-language/"
+  },
+  "B1zgVmxOb": {
+    "id": "B1zgVmxOb",
+    "type": "page",
+    "title": "Great foreign words we should all adopt",
+    "url": "/words/foreign-words-we-should-use-in-english/"
+  },
+  "Bkb9EN1OW": {
+    "id": "Bkb9EN1OW",
+    "type": "page",
+    "title": "Wine words: discovering the languages of Sussex, England",
+    "url": "/words/sussex-language/"
+  },
+  "r1kTW7z8W": {
+    "id": "r1kTW7z8W",
+    "type": "page",
+    "title": "8 great books for logophiles",
+    "url": "/words/great-books-for-logophiles/"
+  },
+  "H1uNOK-uW": {
+    "id": "H1uNOK-uW",
+    "type": "page",
+    "title": "From Bopmuggered to Zozimus: this might just be the most ridiculous dictionary out there",
+    "url": "/words/roald-dahl-dictionary/"
+  },
+  "SyY4aG1_b": {
+    "id": "SyY4aG1_b",
+    "type": "page",
+    "title": "11 onomatopoeias you'll love if you're a logophile",
+    "url": "/words/11-onomatopoeias-youll-love-if-youre-a-logophile/"
+  },
+  "SyAYTuZ_-": {
+    "id": "SyAYTuZ_-",
+    "type": "page",
+    "title": "Muscles, mice and all things nice",
+    "url": "/words/7-things-weve-learned-from-interesting-etymology/"
+  },
+  "ryC9lrl_-": {
+    "id": "ryC9lrl_-",
+    "type": "page",
+    "title": "18 words to use instead of beautiful ",
+    "url": "/words/words-to-use-instead-of-beautiful/"
+  },
+  "rydgvYbuZ": {
+    "id": "rydgvYbuZ",
+    "type": "page",
+    "title": "Philes and phobias",
+    "url": "/words/philes-and-phobias/"
+  },
+  "S1QTvY-uW": {
+    "id": "S1QTvY-uW",
+    "type": "page",
+    "title": "Idioms about love from around the world",
+    "url": "/words/idioms-about-love-from-around-the-world/"
+  },
+  "BkPmNG1O-": {
+    "id": "BkPmNG1O-",
+    "type": "page",
+    "title": "The cutest words in the English language",
+    "url": "/words/the-cutest-words-in-the-english-vocabulary/"
+  },
+  "HJQK7GyOb": {
+    "id": "HJQK7GyOb",
+    "type": "page",
+    "title": "8 of the best apps for writers",
+    "url": "/words/best-apps-for-writers/"
+  },
+  "By8g7GkOZ": {
+    "id": "By8g7GkOZ",
+    "type": "page",
+    "title": "The best new words added to the Oxford English Dictionary in 2015",
+    "url": "/words/best-new-words-oxford-english-dictionary-2015/"
+  },
+  "ryXaZfku-": {
+    "id": "ryXaZfku-",
+    "type": "page",
+    "title": "7 reasons you need to download Oh My Word!",
+    "url": "/words/reasons-to-download-oh-my-word/"
+  },
+  "ry7d1My_b": {
+    "id": "ry7d1My_b",
+    "type": "page",
+    "title": "18 beautiful quotes about writing words ",
+    "url": "/words/quotes-about-writing-words/"
   }
 }
